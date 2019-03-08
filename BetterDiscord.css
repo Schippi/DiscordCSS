@@ -1,0 +1,94 @@
+
+
+.scrollerWrap-1IAIlv {
+    width: 200px;
+    position: static;
+}
+
+.wrapper-1Rf91z {
+    width:185px;
+    padding-bottom:000px;
+}
+.scrollerWrapPolyfill-DBQCMm{
+    width:185px;
+}
+.guildSeparator-3s64Iy{
+    height:-00px;
+    width:100%;
+    position:inherit;
+}
+.guildSeparator-3s64Iy:after{
+    margin-left:-50px;
+    width:100%;
+    margin-top:65px;
+}
+.container-2td-dC{
+    float:left;
+    margin-right:5px;
+}
+.friendsOnline-2JkivW {
+    padding-bottom:5px;
+    height:50px;
+    line-height:50px;
+    margin-top:-60px;
+    margin-left:50px;
+}
+.unread-2OHH1w:before {
+    z-index: 2;
+    margin-left: 32px;
+    margin-top: -25px;
+    background: #EEDD11;
+    border-color: black;
+    border-style: inset;
+    border-radius: 15px;
+    
+}
+.selected-nT-gM3:before {
+    border-color: #EEDD11;
+    border-style: outset;
+    border-radius: 20px;
+    border-width: 7px;
+    height: 44px;
+    width: 44px;
+    margin-top: -29px;
+    margin-left: 11px;
+    z-index: 0;
+    background: transparent;
+}
+.dms-rcsEnV {
+    margin-top:70px;
+    margin-right:10px;
+    margin-bottom:00px;
+    width:100%;
+    height:00%;
+}
+.unreadMentionsIndicatorTop-gA6RCh{
+    top:-100px;
+}
+.unreadMentionsIndicatorBottom-BXS58x {
+    bottom:-50px;
+}
+.theme-dark .unread-2OHH1w:before{
+    background:#EEDD11;
+}
+.search-l1Wz-Q{
+    width:400px;
+}
+.search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb{
+    width:400px;
+}
+.search-2oPWTC .searchBar-3dMhjb{
+    width:400px;
+}
+.search-2oPWTC.focused-31_ccS .searchBar-3dMhjb{
+    width:410px;
+}
+.emojiPicker-3m1S-j .header-1nkwgG .searchBar-2pWH0_{
+    background-color: #353535;
+}
+.searchBar-2_Yu-C.searchBarLight-1NxoDG input{
+    color: white;
+}
+.searchBar-2_Yu-C.searchBarLight-1NxoDG input::placeholder{
+    color: lightgrey;
+}
