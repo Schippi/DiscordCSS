@@ -2,7 +2,6 @@
 
 .scrollerWrap-1IAIlv {
     width: 200px;
-    position: static;
 }
 
 .wrapper-1Rf91z {
@@ -32,6 +31,14 @@
     line-height:50px;
     margin-top:-60px;
     margin-left:50px;
+}
+.container-11WMXy{
+    float:left;
+    margin-right:155px;
+}
+.createJoinContainer-2Av064{
+    height:50px;
+    float:left;
 }
 .unread-2OHH1w:before {
     z-index: 2;
