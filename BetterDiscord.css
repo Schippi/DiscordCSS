@@ -12,7 +12,7 @@
     width:185px;
 }
 .guildSeparator-3s64Iy{
-    height:-00px;
+    height:00px;
     width:100%;
     position:inherit;
 }
@@ -21,9 +21,13 @@
     width:100%;
     margin-top:65px;
 }
-.container-2td-dC{
+.listItem-2P_4kh{
     float:left;
     margin-right:5px;
+    width:50px;
+}
+.base-3dtUhz{
+    left:170px;
 }
 .friendsOnline-2JkivW {
     padding-bottom:5px;
@@ -62,6 +66,21 @@
     z-index: 0;
     background: transparent;
 }
+.pill-31IEus{
+    width:10px;
+}
+.item-2hkk8m{
+    border-color: #EEDD11;
+    border-style: outset;
+    border-radius: 20px;
+    border-width: 8px;
+    width: 40px;
+    height: 70px;
+    margin-left: -3px;
+    z-index: 1;
+    background: transparent;
+}
+
 .dms-rcsEnV {
     margin-top:70px;
     margin-right:10px;
@@ -92,6 +111,12 @@
 }
 .emojiPicker-3m1S-j .header-1nkwgG .searchBar-2pWH0_{
     background-color: #353535;
+}
+.da-emojiPicker{
+    height:850px;
+}
+.scroller-2FKFPG{
+    height:100%;
 }
 .searchBar-2_Yu-C.searchBarLight-1NxoDG input{
     color: white;
