@@ -110,25 +110,52 @@
 .search-2oPWTC.focused-31_ccS .searchBar-3dMhjb{
     width:410px;
 }
-.emojiPicker-3m1S-j .header-1nkwgG .searchBar-2pWH0_{
-    background-color: #353535;
+
+.positionContainer-3unAXC{
+    height:920px;
 }
+
 .da-emojiPicker{
     height:920px;
 }
 .scroller-2FKFPG{
     /*height:100%;*/
 }
-.emojiPicker-3m1S-j .scroller-3vODG7{
-     height:100%;
+.emojiItem-14v6tW{
+    float: left;
 }
-.emojiPicker-3m1S-j{
-    /*max-width: 1200px;*/
+.da-emojiItemDisabled{
+    width:15px;
+    height:15px;
 }
-.emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.disabled-1H1CfW{
-    width:10px;
-    height:10px;
+.emojiItemImage-3ki-eV{
+    height:100% !important;
+    width:100% !important;
 }
+
+.emojiListRowMediumSize-M_K7-z{
+    /*grid-template-columns: repeat(auto-fit,10%);*/
+    grid-template-columns: none;
+}
+.emojiListRowLargeSize-3QTDek{
+    
+}
+.emojiListRow-m_GHp0{
+    display:block;
+    
+}
+
+.categorySection-2sgp74{
+ margin-bottom:0px;   
+}
+.listItems-1uJgMC{
+ top:2px;
+ left:2px;
+}
+}
+
+
+
 .searchBar-2_Yu-C.searchBarLight-1NxoDG input{
     color: white;
 }
