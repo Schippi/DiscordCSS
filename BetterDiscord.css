@@ -115,9 +115,16 @@
     height:920px;
 }
 
-.da-emojiPicker{
-    height:920px;
+
+
+/*Emoji Picker*/
+.contentWrapper-SvZHNd{
+    height:800px;
+    position:fixed;
+    bottom:80px;
+    width:40%;
 }
+
 .scroller-2FKFPG{
     /*height:100%;*/
 }
@@ -131,6 +138,10 @@
 .emojiItemImage-3ki-eV{
     height:100% !important;
     width:100% !important;
+}
+
+.da-emojiItemLarge{
+
 }
 
 .emojiListRowMediumSize-M_K7-z{
