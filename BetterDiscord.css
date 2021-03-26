@@ -1,3 +1,5 @@
+
+
 .scrollerWrap-1IAIlv {
     width: 200px;
 }
@@ -162,7 +164,6 @@
  top:2px;
  left:2px;
 }
-}
 
 
 
@@ -172,13 +173,13 @@
 .searchBar-2_Yu-C.searchBarLight-1NxoDG input::placeholder{
     color: lightgrey;
 }
-.wrapper-21YSNc{
+.wrapper-3Njo_c{
     float:left;
     width:50px;
     margin-left:1px;
     margin-right:4px;
 }
-.expandedFolderBackground-2sPsd-{
+.da-expandedFolderBackground{
     position:absolute;
     left:0px;
     width:100%;
