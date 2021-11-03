@@ -144,6 +144,10 @@
     width:15px;
     height:15px;
 }
+
+/*
+class="emojiItem-14v6tW emojiItemLarge-sa0X3P"
+*/
 .emojiItemImage-3ki-eV{
     height:100% !important;
     width:100% !important;
@@ -181,16 +185,17 @@
 .searchBar-2_Yu-C.searchBarLight-1NxoDG input::placeholder{
     color: lightgrey;
 }
-.wrapper-3Njo_c{
+.wrapper-shyHJt{
     float:left;
     width:50px;
     margin-left:1px;
     margin-right:4px;
 }
-.da-expandedFolderBackground{
+.expandedFolderBackground-3ZDF05{
     position:absolute;
     left:0px;
-    width:100%;
+    top:-5px;
+    width:110%;
     height: 99.3%;
 }
 
