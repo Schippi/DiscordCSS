@@ -1,13 +1,18 @@
 
 
-.scroller-3X7KbA {
+.scroller__3d071 {
     width: 200px;
 }
 
-.wrapper-1_HaEi {
-    width:180px;
-    padding-bottom:000px;
+.wrapper_a7e7a8{
+    width: 180px;
 }
+
+.guilds__2b93a {
+    width: 180px;
+}
+
+
 .scrollerWrapPolyfill-DBQCMm{
     width:185px;
 }
@@ -21,8 +26,34 @@
     width:100%;
     margin-top:65px;
 }
+.guildSeparator_dcb3cc{
+    height:00px;
+    width:100%;
+    position:inherit;
+}
+.guildSeparator_dcb3cc:after{
+    margin-left:-50px;
+    width:100%;
+    margin-top:65px;
+}
+.guildSeparator__641a8{
+    height:00px;
+    width:100%;
+    position:inherit;
+}
+.guildSeparator__641a8:after{
+    margin-left:-50px;
+    width:100%;
+    margin-top:65px;
+}
+
 /*serveritem*/
 .listItem-3SmSlK{
+    float:left;
+    margin-right:5px;
+    width:55px;
+}
+.listItem_fa7b36{
     float:left;
     margin-right:5px;
     width:55px;
@@ -40,6 +71,10 @@
     margin-right:155px;
 }
 .createJoinContainer-2Av064{
+    height:50px;
+    float:left;
+}
+.createJoinContainer_de18e1{
     height:50px;
     float:left;
 }
@@ -69,7 +104,19 @@
     width:8px;
     z-index: 2;
 }
+//pill item
 .item-2hkk8m{
+    border-color: #EEDD11;
+    border-style: outset;
+    border-radius: 20px;
+    border-width: 8px;
+    width: 40px;
+    height: 70px;
+    margin-left: -3px;
+    z-index: 1;
+    background: transparent;
+}
+.item_f9d377{
     border-color: #EEDD11;
     border-style: outset;
     border-radius: 20px;
@@ -91,7 +138,13 @@
 .unreadMentionsIndicatorTop-gA6RCh{
     top:-100px;
 }
+.unreadMentionsIndicatorTop_ada847{
+    top:-100px;
+}
 .unreadMentionsIndicatorBottom-BXS58x {
+    bottom:-50px;
+}
+.unreadMentionsIndicatorBottom_fdb943 {
     bottom:-50px;
 }
 .theme-dark .unread-2OHH1w:before{
@@ -114,17 +167,31 @@
     height:920px;
 }
 
-.wrapper-38slSD{
+.wrapper_ed1dea{
     float:left;
     width:50px;
     margin-left:1px;
     margin-right:4px;
+}
+.expandedFolderBackground-1bec6{
+    position:absolute;
+    left:0px;
+    top:-5px;
+    width:110%;
+    height: 99.3%;
 }
 .expandedFolderBackground-1kSAf6{
     position:absolute;
     left:0px;
     top:-5px;
     width:110%;
+    height: 99.3%;
+}
+.expandedFolderBackground__1bec6{
+    position:absolute;
+    left:0px;
+    top:-5px;
+    width:55px;
     height: 99.3%;
 }
 
@@ -205,6 +272,11 @@
     /* changing width will crash betterDiscord
     width:600px;*/
 }
+.emojiPicker_b65ce9{
+    height:600px;
+    /* changing width will crash betterDiscord
+    width:600px;*/
+}
 
 /*Emoji Picker*/
 .contentWrapper-3vHNP2{
@@ -217,13 +289,27 @@
 .emojiItem-277VFM{
     float: left;
 }
-
-.expandedFolderBackground-1kSAf6{
-    position:absolute;
-    left:0px;
-    top:-5px;
-    width:110%;
-    height: 99.3%;
+.contentWrapper__321ed{
+    height:800px;
+    position:fixed;
+    bottom:80px;
+    width:40%;
+    right:50px;
 }
+.emojiItem_b15dee{
+    float: left;
+}
+//reaction popout window
+.popout_180{
+    width:600px;
+}
+//reaction emoji menu
+.contentWrapper_eab878{
+    width:1000px;
+    left:0px;
+    height:800px;
+}
+
+
 
 
