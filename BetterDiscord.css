@@ -1,5 +1,69 @@
 
 
+.scroller_ef3116 {
+    width: 200px;
+}
+
+.wrapper_ef3116{
+    width: 180px;
+}
+
+.guilds_c48ade {
+    width: 180px;
+    float:left;
+
+}
+
+
+.guildSeparator-a4uisj{
+    height:00px;
+    width:100%;
+    position:inherit;
+}
+.guildSeparator-a4uisj:after{
+    margin-left:-50px;
+    width:100%;
+    margin-top:65px;
+}
+.guildSeparator_dcb3cc{
+    height:00px;
+    width:100%;
+    position:inherit;
+}
+.guildSeparator_dcb3cc:after{
+    margin-left:-50px;
+    width:100%;
+    margin-top:65px;
+}
+.guildSeparator__641a8{
+    height:00px;
+    width:100%;
+    position:inherit;
+}
+.guildSeparator__641a8:after{
+    margin-left:-50px;
+    width:100%;
+    margin-top:65px;
+}
+
+/*serveritem*/
+.listItem__650eb{
+    float:left;
+    margin-right:5px;
+    width:55px;
+}
+.wrapper_d144f8{
+    float:left;
+    margin-right:5px;
+    width:55px;
+}
+/*folder*/
+.wrapper__48112{
+    float:left;
+    margin-right:5px;
+    width:55px;
+}
+
 .scroller__3d071 {
     width: 200px;
 }
